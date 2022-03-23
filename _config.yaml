@@ -3,4 +3,4 @@ description: > # this means to ignore newlines until "show_excerpts:"
   A quick, simple blog site
 
 baseurl: /blog
-url: "https://www.sparrow0hawk.github.io/"
+url: "https://sparrow0hawk.github.io"
