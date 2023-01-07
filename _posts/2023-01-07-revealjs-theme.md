@@ -10,7 +10,7 @@ Reveal.js is lovely, it's a HTML presentation framework that is great and my def
 For me, I like the fact it's just a website (something I can share via a URL), it's responsive across devices, and supports Markdown for writing slides. 
 I particularly like how HackMD, my note making site of preference, also supports generating a reveal.js slidedeck straight from a hackpad.
 
-<iframe src="https://hackmd.io/@sparrow0hawk/it-xmas-talk" title="IT Christmas Techtalk 2023 via revealjs and hackmd"></iframe>
+<iframe src="https://hackmd.io/@sparrow0hawk/it-xmas-talk" title="IT Christmas Techtalk 2023 via revealjs and hackmd" height="400" width="600"></iframe>
 
 However it's not perfect.
 It's hard to position multiple elements in a single slide. 
