@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Adventures with Rust part 1
-categories: rust
+tags: rust
 ---
 
 I've been interested in learning the [Rust language](https://www.rust-lang.org/) for quite a while. 

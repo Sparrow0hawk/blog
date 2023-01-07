@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Teaching and mastery
-categories: teaching, python
+tags: teaching, python
 ---
 
 The reference to mastery in this blog title is mostly ironic, as I would readily admit I am definitely not a master of Python and indeed very far from it!

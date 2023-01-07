@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Things to do in 2023: A new reveal.js theme"
-categories: presenting, web, revealjs
+tags: presenting, web, revealjs
 ---
 
 A new year is upon us and so that leads to the inevitableness of thinking about things i'd like to get done this year.
